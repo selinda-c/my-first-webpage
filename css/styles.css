@@ -28,3 +28,6 @@ ol {
   line-height: 30px;
   list-style-position: inside;
 }
+img {
+  width: 200px;
+}
