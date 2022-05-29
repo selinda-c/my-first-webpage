@@ -15,3 +15,9 @@ ul {
 body {
   background-color: lightblue;
 }
+a {
+  color: red;
+}
+a:hover {
+  color: green;
+}
